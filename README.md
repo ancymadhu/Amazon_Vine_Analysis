@@ -29,10 +29,24 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
 #### * Vine Reviews
 
+![5](https://user-images.githubusercontent.com/73450637/108020232-ef6ea100-6fe9-11eb-9ab3-1cf1df3d766d.png)
+
 #### * Non-Vine Reviews
+
+![6](https://user-images.githubusercontent.com/73450637/108020237-f2699180-6fe9-11eb-8ae6-46754ceee88b.png)
 
 ### III. Percentage of 5-star reviews
 
 #### * Vine Reviews
 
+![7](https://user-images.githubusercontent.com/73450637/108020243-f39abe80-6fe9-11eb-8a85-b9f3d3afd214.png)
+
 #### * Non-Vine Reviews
+
+![8](https://user-images.githubusercontent.com/73450637/108020248-f5648200-6fe9-11eb-8023-7f57d0057ee9.png)
+
+## Summary
+
+51% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is only 39%. This shows a positivity bias for reviews in the Vine program.
+
+Additionally we could provide additional analysis of the reviews by considering the genuinity of the accounts that made a review.
